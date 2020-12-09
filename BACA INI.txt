@@ -1,0 +1,9 @@
+cara import file excel ke mysql
+
+1. excel jadi format .csv
+2. buat tabel sesuai excel
+3. jangan isi header, lgsg data krn ngaruh ke type data
+4. tabel, import, csv using load data
+	yang di isi
+	column separated with = ;
+	lines terminated with = auto
